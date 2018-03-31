@@ -1,0 +1,3 @@
+clap to the left
+clap to the right
+sit down
